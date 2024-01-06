@@ -5,6 +5,7 @@ This game was made in SwiftUI following [Stanford CS193p classes](https://cs193p
 <div align="center">
   <img src="https://imgur.com/wyEQTkF.jpeg" width="250px" />
   <img src="https://imgur.com/yeSTJhh.gif" width="250px" />
+  <img src="https://imgur.com/5D42Iuf.jpeg" width="250px" />
 </div>
 
 ## Build
